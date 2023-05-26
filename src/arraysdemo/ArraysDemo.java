@@ -2,6 +2,7 @@ package arraysdemo;
 import java.util.Scanner;
 
 public class ArraysDemo {
+    // comment added at 12:32pm
     public static void main(String[] args) {
         
         System.out.print("Enter a word: ");
